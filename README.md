@@ -2,8 +2,6 @@
 
 A modern, responsive, and animated website for **Sidcup Family Golf**, built using **HTML**, **CSS**, **JavaScript**, and **GSAP**. This project showcases various facilities like Toptracer Range, Adventure Golf, Golf Lessons, and more through smooth animations and a user-friendly layout.
 
-![Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 - Fully responsive design
